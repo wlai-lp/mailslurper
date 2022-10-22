@@ -17,7 +17,7 @@ You're done.  Navigate to `http://localhost:8080` to see your inbox!
 
 Paste the command into your terminal to run the email script, Python needs to be installed.
 ```
-$ wget -qO- https://raw.githubusercontent.com/sedkodes/mailslurper/main/send-mail-test.py | python
+$ wget -qO- https://raw.githubusercontent.com/sedkodes/mailslurper/main/send-mail-test.py | python3
 ```
 
 and then refresh your inbox at `http://localhost:8080` to see your email!
